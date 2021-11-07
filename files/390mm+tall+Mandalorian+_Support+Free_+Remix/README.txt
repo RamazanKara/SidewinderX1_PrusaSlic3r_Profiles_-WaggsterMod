@@ -1,1 +1,0 @@
-390mm tall Mandalorian "Support Free" Remix by NAK3DDesigns on Thingiverse: https://www.thingiverse.com/thing:4860384

@@ -1,1 +1,0 @@
-Chibi Squid Game by Messias_Scrap on Thingiverse: https://www.thingiverse.com/thing:4983016
