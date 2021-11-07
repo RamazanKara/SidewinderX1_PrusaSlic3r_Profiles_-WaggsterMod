@@ -1,1 +1,0 @@
-Thanks to Waggster for bltouch support and cabling guide

@@ -1,0 +1,1 @@
+Artillery Sidewinder X1 / X2 / Genius TFT FW + Marlin FW (for X1) + M600 support + Marlin mode (optional)
