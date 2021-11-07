@@ -14,7 +14,7 @@ Furthermore, bug fixes, rearrangement of menus, improvements and additions were 
 
 To get going, import the PrusaSlicer_config_bundle.ini file
 
-The PrusaSlic3r Profiles also include test Profiles. You will get the best results from the QUALITY Profiles. SPEED Profiles for big mechanical prints. SQUIDGame if you wanna print so fast that you need to roll a dice to get a usable print. Rest are testing profiles. Tons of filament and Print Profiles are added.
+The PrusaSlic3r Profiles also include test Profiles. You will get the best results from the QUALITY Profiles. SPEED Profiles for big mechanical prints. Tons of filament and Nozzle specific Print Profiles are added.
 
 Nozzle 0.40 Printer settings also include the custom GCode for BL Touch Auto Bed Leveling. Use this template on the custom GCODE start parameters and copy it over to the other Nozzle Profiles if you wanna use these with BL Touch. You basically need the G29 Code executed before your print begins.
 

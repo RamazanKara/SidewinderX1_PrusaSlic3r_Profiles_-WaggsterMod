@@ -1,1 +1,0 @@
-Artillery Sidewinder x1 - Z wobble torture test - height 400mm by pappl on Thingiverse: https://www.thingiverse.com/thing:4588190
